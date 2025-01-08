@@ -57,3 +57,4 @@ The villagers are self-sustainable, farming enough to keep their houses stocked.
 - Fantasy Lowpoly Pack (Demo) by Black Rose Developers https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-lowpoly-pack-demo-301518
 - Low Poly Farm Pack Lite by Just Create https://assetstore.unity.com/packages/3d/environments/industrial/low-poly-farm-pack-lite-188100
 - Medieval Tent Big by kawetofe https://assetstore.unity.com/packages/3d/environments/historic/medieval-tent-big-19023
+- All animations from Mixamo.
